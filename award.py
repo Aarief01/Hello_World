@@ -13,7 +13,7 @@
 # Print the participants total time and 'No Award'.
 
 # Request users input for their time in minutes for each of the triathlon events.
-print("Please enter how many minutes you took for each of the triathlon events below:")
+print("Please enter your timing in minutes for each of the triathlon events below:")
 swimming = int(input("Swimming: "))
 cycling = int(input("Cycling: "))
 running = int(input("Running: "))
