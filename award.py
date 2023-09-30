@@ -11,6 +11,7 @@
 # Elif the total time is less than or equal to 110 mim:
 # Else:
 # Print the participants total time and 'No Award'.
+# More Psuedo Code
 
 # Request users input for their time in minutes for each of the triathlon events.
 print("Please enter your timing in minutes for each of the triathlon events below:")
